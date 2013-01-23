@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="titulos">
+        <item>The Dark Knight Rises</item>
+        <item>Brave</item>
+        <item>007 Skyfall</item>
+        <item>Titanic</item>
+        <item>The Avengers</item>
+        <item>Alvin y las Ardillas</item>
+    </string-array>
+    
+    <string-array name="generos">
+        <item>Acción y Aventura</item>
+        <item>Infantil</item>
+        <item>Acción y Aventura</item>
+        <item>Romance</item>
+        <item>Acción y Aventura</item>
+        <item>Comedia</item>
+    </string-array>
+    
+    <string-array name="duracion">
+        <item>150 min</item>
+        <item>97 min</item>
+        <item>144 min</item>
+        <item>180 min</item>
+        <item>130 min</item>
+        <item>115 min</item>
+    </string-array>
+    
+    <string-array name="clasificacion">
+        <item>B</item>
+        <item>AA</item>
+        <item>B</item>
+        <item>B</item>
+        <item>B</item>
+        <item>A</item>
+    </string-array>
+    
+    <string-array name="fechas">
+        <item>4 diciembre, 4:00 pm</item>
+        <item>4 diciembre, 6:00 pm</item>
+        <item>5 diciembre, 4:00 pm</item>
+        <item>5 diciembre, 6:00 pm</item>
+        <item>6 diciembre, 4:00 pm</item>
+        <item>6 diciembre, 6:00 pm</item>
+    </string-array>
+    
+</resources>
